@@ -1,0 +1,75 @@
+E:\CSCI 1260\Lab3\Lab3\bin\Debug\net6.0\Lab3.exe
+E:\CSCI 1260\Lab3\Lab3\bin\Debug\net6.0\Lab3.deps.json
+E:\CSCI 1260\Lab3\Lab3\bin\Debug\net6.0\Lab3.runtimeconfig.json
+E:\CSCI 1260\Lab3\Lab3\bin\Debug\net6.0\Lab3.dll
+E:\CSCI 1260\Lab3\Lab3\bin\Debug\net6.0\Lab3.pdb
+E:\CSCI 1260\Lab3\Lab3\obj\Debug\net6.0\Lab3.csproj.AssemblyReference.cache
+E:\CSCI 1260\Lab3\Lab3\obj\Debug\net6.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSCI 1260\Lab3\Lab3\obj\Debug\net6.0\Lab3.AssemblyInfoInputs.cache
+E:\CSCI 1260\Lab3\Lab3\obj\Debug\net6.0\Lab3.AssemblyInfo.cs
+E:\CSCI 1260\Lab3\Lab3\obj\Debug\net6.0\Lab3.csproj.CoreCompileInputs.cache
+E:\CSCI 1260\Lab3\Lab3\obj\Debug\net6.0\Lab3.dll
+E:\CSCI 1260\Lab3\Lab3\obj\Debug\net6.0\refint\Lab3.dll
+E:\CSCI 1260\Lab3\Lab3\obj\Debug\net6.0\Lab3.pdb
+E:\CSCI 1260\Lab3\Lab3\obj\Debug\net6.0\Lab3.genruntimeconfig.cache
+E:\CSCI 1260\Lab3\Lab3\obj\Debug\net6.0\ref\Lab3.dll
+C:\Users\Jericho McGowan\Downloads\Lab3 2.0\1260-002-McGowanJericho-Lab2 (1)\Lab3\Lab3\bin\Debug\net6.0\Lab3.exe
+C:\Users\Jericho McGowan\Downloads\Lab3 2.0\1260-002-McGowanJericho-Lab2 (1)\Lab3\Lab3\bin\Debug\net6.0\Lab3.deps.json
+C:\Users\Jericho McGowan\Downloads\Lab3 2.0\1260-002-McGowanJericho-Lab2 (1)\Lab3\Lab3\bin\Debug\net6.0\Lab3.runtimeconfig.json
+C:\Users\Jericho McGowan\Downloads\Lab3 2.0\1260-002-McGowanJericho-Lab2 (1)\Lab3\Lab3\bin\Debug\net6.0\Lab3.dll
+C:\Users\Jericho McGowan\Downloads\Lab3 2.0\1260-002-McGowanJericho-Lab2 (1)\Lab3\Lab3\bin\Debug\net6.0\Lab3.pdb
+C:\Users\Jericho McGowan\Downloads\Lab3 2.0\1260-002-McGowanJericho-Lab2 (1)\Lab3\Lab3\obj\Debug\net6.0\Lab3.csproj.AssemblyReference.cache
+C:\Users\Jericho McGowan\Downloads\Lab3 2.0\1260-002-McGowanJericho-Lab2 (1)\Lab3\Lab3\obj\Debug\net6.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jericho McGowan\Downloads\Lab3 2.0\1260-002-McGowanJericho-Lab2 (1)\Lab3\Lab3\obj\Debug\net6.0\Lab3.AssemblyInfoInputs.cache
+C:\Users\Jericho McGowan\Downloads\Lab3 2.0\1260-002-McGowanJericho-Lab2 (1)\Lab3\Lab3\obj\Debug\net6.0\Lab3.AssemblyInfo.cs
+C:\Users\Jericho McGowan\Downloads\Lab3 2.0\1260-002-McGowanJericho-Lab2 (1)\Lab3\Lab3\obj\Debug\net6.0\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Jericho McGowan\Downloads\Lab3 2.0\1260-002-McGowanJericho-Lab2 (1)\Lab3\Lab3\obj\Debug\net6.0\Lab3.dll
+C:\Users\Jericho McGowan\Downloads\Lab3 2.0\1260-002-McGowanJericho-Lab2 (1)\Lab3\Lab3\obj\Debug\net6.0\refint\Lab3.dll
+C:\Users\Jericho McGowan\Downloads\Lab3 2.0\1260-002-McGowanJericho-Lab2 (1)\Lab3\Lab3\obj\Debug\net6.0\Lab3.pdb
+C:\Users\Jericho McGowan\Downloads\Lab3 2.0\1260-002-McGowanJericho-Lab2 (1)\Lab3\Lab3\obj\Debug\net6.0\Lab3.genruntimeconfig.cache
+C:\Users\Jericho McGowan\Downloads\Lab3 2.0\1260-002-McGowanJericho-Lab2 (1)\Lab3\Lab3\obj\Debug\net6.0\ref\Lab3.dll
+E:\CSCI 1260\Lab3 (1,2)\Lab3 Part 2\Lab3\bin\Debug\net6.0\Lab3.exe
+E:\CSCI 1260\Lab3 (1,2)\Lab3 Part 2\Lab3\bin\Debug\net6.0\Lab3.deps.json
+E:\CSCI 1260\Lab3 (1,2)\Lab3 Part 2\Lab3\bin\Debug\net6.0\Lab3.runtimeconfig.json
+E:\CSCI 1260\Lab3 (1,2)\Lab3 Part 2\Lab3\bin\Debug\net6.0\Lab3.dll
+E:\CSCI 1260\Lab3 (1,2)\Lab3 Part 2\Lab3\bin\Debug\net6.0\Lab3.pdb
+E:\CSCI 1260\Lab3 (1,2)\Lab3 Part 2\Lab3\obj\Debug\net6.0\Lab3.csproj.AssemblyReference.cache
+E:\CSCI 1260\Lab3 (1,2)\Lab3 Part 2\Lab3\obj\Debug\net6.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSCI 1260\Lab3 (1,2)\Lab3 Part 2\Lab3\obj\Debug\net6.0\Lab3.AssemblyInfoInputs.cache
+E:\CSCI 1260\Lab3 (1,2)\Lab3 Part 2\Lab3\obj\Debug\net6.0\Lab3.AssemblyInfo.cs
+E:\CSCI 1260\Lab3 (1,2)\Lab3 Part 2\Lab3\obj\Debug\net6.0\Lab3.csproj.CoreCompileInputs.cache
+E:\CSCI 1260\Lab3 (1,2)\Lab3 Part 2\Lab3\obj\Debug\net6.0\Lab3.dll
+E:\CSCI 1260\Lab3 (1,2)\Lab3 Part 2\Lab3\obj\Debug\net6.0\refint\Lab3.dll
+E:\CSCI 1260\Lab3 (1,2)\Lab3 Part 2\Lab3\obj\Debug\net6.0\Lab3.pdb
+E:\CSCI 1260\Lab3 (1,2)\Lab3 Part 2\Lab3\obj\Debug\net6.0\Lab3.genruntimeconfig.cache
+E:\CSCI 1260\Lab3 (1,2)\Lab3 Part 2\Lab3\obj\Debug\net6.0\ref\Lab3.dll
+D:\CSCI 1260\Lab3 (1,2)\Lab3 Part 2\Lab3\bin\Debug\net6.0\Lab3.exe
+D:\CSCI 1260\Lab3 (1,2)\Lab3 Part 2\Lab3\bin\Debug\net6.0\Lab3.deps.json
+D:\CSCI 1260\Lab3 (1,2)\Lab3 Part 2\Lab3\bin\Debug\net6.0\Lab3.runtimeconfig.json
+D:\CSCI 1260\Lab3 (1,2)\Lab3 Part 2\Lab3\bin\Debug\net6.0\Lab3.dll
+D:\CSCI 1260\Lab3 (1,2)\Lab3 Part 2\Lab3\bin\Debug\net6.0\Lab3.pdb
+D:\CSCI 1260\Lab3 (1,2)\Lab3 Part 2\Lab3\obj\Debug\net6.0\Lab3.csproj.AssemblyReference.cache
+D:\CSCI 1260\Lab3 (1,2)\Lab3 Part 2\Lab3\obj\Debug\net6.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSCI 1260\Lab3 (1,2)\Lab3 Part 2\Lab3\obj\Debug\net6.0\Lab3.AssemblyInfoInputs.cache
+D:\CSCI 1260\Lab3 (1,2)\Lab3 Part 2\Lab3\obj\Debug\net6.0\Lab3.AssemblyInfo.cs
+D:\CSCI 1260\Lab3 (1,2)\Lab3 Part 2\Lab3\obj\Debug\net6.0\Lab3.csproj.CoreCompileInputs.cache
+D:\CSCI 1260\Lab3 (1,2)\Lab3 Part 2\Lab3\obj\Debug\net6.0\Lab3.dll
+D:\CSCI 1260\Lab3 (1,2)\Lab3 Part 2\Lab3\obj\Debug\net6.0\refint\Lab3.dll
+D:\CSCI 1260\Lab3 (1,2)\Lab3 Part 2\Lab3\obj\Debug\net6.0\Lab3.pdb
+D:\CSCI 1260\Lab3 (1,2)\Lab3 Part 2\Lab3\obj\Debug\net6.0\Lab3.genruntimeconfig.cache
+D:\CSCI 1260\Lab3 (1,2)\Lab3 Part 2\Lab3\obj\Debug\net6.0\ref\Lab3.dll
+E:\CSCI 1260\Project 2\Project\Lab3\bin\Debug\net6.0\Lab3.exe
+E:\CSCI 1260\Project 2\Project\Lab3\bin\Debug\net6.0\Lab3.deps.json
+E:\CSCI 1260\Project 2\Project\Lab3\bin\Debug\net6.0\Lab3.runtimeconfig.json
+E:\CSCI 1260\Project 2\Project\Lab3\bin\Debug\net6.0\Lab3.dll
+E:\CSCI 1260\Project 2\Project\Lab3\bin\Debug\net6.0\Lab3.pdb
+E:\CSCI 1260\Project 2\Project\Lab3\obj\Debug\net6.0\Lab3.csproj.AssemblyReference.cache
+E:\CSCI 1260\Project 2\Project\Lab3\obj\Debug\net6.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSCI 1260\Project 2\Project\Lab3\obj\Debug\net6.0\Lab3.AssemblyInfoInputs.cache
+E:\CSCI 1260\Project 2\Project\Lab3\obj\Debug\net6.0\Lab3.AssemblyInfo.cs
+E:\CSCI 1260\Project 2\Project\Lab3\obj\Debug\net6.0\Lab3.csproj.CoreCompileInputs.cache
+E:\CSCI 1260\Project 2\Project\Lab3\obj\Debug\net6.0\Lab3.dll
+E:\CSCI 1260\Project 2\Project\Lab3\obj\Debug\net6.0\refint\Lab3.dll
+E:\CSCI 1260\Project 2\Project\Lab3\obj\Debug\net6.0\Lab3.pdb
+E:\CSCI 1260\Project 2\Project\Lab3\obj\Debug\net6.0\Lab3.genruntimeconfig.cache
+E:\CSCI 1260\Project 2\Project\Lab3\obj\Debug\net6.0\ref\Lab3.dll
